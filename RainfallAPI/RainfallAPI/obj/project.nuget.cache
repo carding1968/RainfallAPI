@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "JkWX/BAgWwcALKUfACNSMVKccU64P8gq178ZkQoPXBJdl26+8WdpBvy1rgeVc42Ann6O93ND5WOGT1HC18QQeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sheena Mae Lauresta\\source\\repos\\RainfallAPI\\RainfallAPI\\RainfallAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sheena Mae Lauresta\\.nuget\\packages\\microsoft.extensions.apidescription.client\\7.0.2\\microsoft.extensions.apidescription.client.7.0.2.nupkg.sha512",
+    "C:\\Users\\Sheena Mae Lauresta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Sheena Mae Lauresta\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Sheena Mae Lauresta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Sheena Mae Lauresta\\.nuget\\packages\\nswag.apidescription.client\\13.18.2\\nswag.apidescription.client.13.18.2.nupkg.sha512",
+    "C:\\Users\\Sheena Mae Lauresta\\.nuget\\packages\\nswag.msbuild\\13.18.2\\nswag.msbuild.13.18.2.nupkg.sha512",
+    "C:\\Users\\Sheena Mae Lauresta\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Sheena Mae Lauresta\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Sheena Mae Lauresta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Sheena Mae Lauresta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
